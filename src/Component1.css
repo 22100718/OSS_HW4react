@@ -1,0 +1,11 @@
+.component1 {
+    background-color: #ffdfba;
+    padding: 15px;
+    border-radius: 8px;
+    width: 150px;
+  }
+  .component1 h2 {
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
